@@ -39,19 +39,19 @@
     </message>
     <message>
         <source>Enter task name</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenname eingeben</translation>
     </message>
     <message>
         <source>Add a new task</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe hinzufügen</translation>
     </message>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe entfernen</translation>
     </message>
     <message>
         <source>Removing task &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe entfernen</translation>
     </message>
 </context>
 </TS>
